@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: 123, Jalan Langkawi, 53300, Setapak
+        \n\nEducation:
+        \n\n\tSJKC Kung Yu
+        \n\n\tSJKC Pei Hwa
+        \n\n\tTARUC, KL
+        \n\nWorking Experiences:
+        \n\n\tPromoter, Aeon
+        \n\n\tEvent Crew Staff
+        \n\n\tFlyer Distribution
+        \n\n\tHome Coaching Assistant
+    </string>
+</resources>
